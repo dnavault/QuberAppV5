@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Quber</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="button_id">Add Jar</string>
+    <string name="goal">Goal</string>
+    <string name="button_save">Next</string>
+    <string name="goalAmountPlaceholder">Goal</string>
+    <string name="jar_title">Jars:</string>
+    <string name="rule_types_title">Rule types:</string>
+    <string name="actions_title">Action:</string>
+    <string name="jarListLabel_id">jarListlbl</string>
+    <string name="ruleListLabel_id">ruleListlbl</string>
+    <string name="actionListLabel_id">actionListlbl</string>
+    <string name="jarsListUrl">https://qa-api.quberapp.com/items-manager/api/v1.0/jars/defaultJars</string>
+    <string name="simpleRulesListUrl">https://qa-api.quberapp.com/rule-manager/api/v1.0/rules/simpleRules</string>
+</resources>
